@@ -27,8 +27,8 @@ Poniższe statystyki aktualizują się automatycznie na bieżąco, pobierając d
 ---
 
 ### 🌐 Moje Projekty i Usługi
-*   **Centralna Dokumentacja:** [docs.nodecloud.uk](https://nodecloud.uk)
-*   **Główne Repozytorium Homelabu:** [nodecloud-ui/homelab](https://github.com)
+*   **Centralna Dokumentacja:** [docs.nodecloud.uk](https://docs.nodecloud.uk)
+*   **Główne Repozytorium Homelabu:** [nodecloud-ui/homelab](https://github.com/nodecloud-ui/homelab)
 
 ---
 *„Obsessed with how things work.”*
