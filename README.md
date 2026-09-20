@@ -1,4 +1,4 @@
-# Nicholas... a nie, nodecloud-ui! 🚀
+# nodecloud-ui! 🚀
 
 ### 🛠️ O mnie
 Witamy na moim profilu! Jestem pasjonatem rozwiązań open-source, automatyzacji procesów CI/CD (GitHub Actions), zarządzania infrastrukturą jako kod oraz bezpiecznego self-hostingu w środowiskach domowych (Homelab).
@@ -28,7 +28,7 @@ Poniższe statystyki aktualizują się automatycznie na bieżąco, pobierając d
 
 ### 🌐 Moje Projekty i Usługi
 *   **Centralna Dokumentacja:** [docs.nodecloud.uk](https://nodecloud.uk)
-*   **Główne Repozytorium Homelabu:** [nodecloud-ui/homelab-docs](https://github.com)
+*   **Główne Repozytorium Homelabu:** [nodecloud-ui/homelab](https://github.com)
 
 ---
 *„Obsessed with how things work.”*
